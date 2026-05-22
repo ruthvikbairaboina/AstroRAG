@@ -12,7 +12,7 @@ I built this to explore how RAG pipelines work end-to-end, from ingesting raw do
 
 ---
 
-## 📸 Demo
+## Demo
 
 **Question:** *"What fuel did Artemis I use?"*
 
